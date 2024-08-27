@@ -14,8 +14,6 @@ Choco==1.0.5
 Click==7.0
 colorama==0.4.1
 cryptography==2.8
-cx-Freeze==5.1.1
-decorator==4.3.2
 defusedxml==0.5.0
 dj_database_url==0.5.0
 Django==3.0.3
